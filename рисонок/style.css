@@ -1,0 +1,158 @@
+.earth {
+    position: absolute;
+    top: 103%;
+    left: 20%;
+	width: 1200px;
+	height: 200px;
+	background: rgb(50, 121, 22);
+	border-radius: 100px;
+}
+
+.square {
+    position: absolute;
+    height: 200px; 
+    width: 200px;
+    margin: 230px 700px;
+    background-color: rgb(148, 144, 144);
+}    
+.door {
+    position: absolute;
+    top: 75%;
+    left: 58%;
+    height: 100px; 
+    width: 60px;
+    background-color: rgb(168, 44, 44);
+    border: 6px solid rgb(0, 0, 0);
+}   
+
+.window {
+    position: absolute;
+    top: 65%;
+    left: 66%;
+    height: 50px; 
+    width: 50px;
+    background-color: rgb(255, 255, 255);
+    border: 6px solid rgb(0, 0, 0);
+}   
+
+.triangle {
+    position: absolute;
+    top: 35%;
+    left: 52%;
+    width: 0;
+	height: 0;
+	border-left: 160px solid transparent;
+	border-right: 160px solid transparent;
+	border-bottom: 100px solid rgb(105, 94, 94);
+}
+
+.line {
+    position: absolute;
+    top: 68%;
+    left: 66.45%;
+    background-color: black;
+    width: 49px;
+    height: 1px;
+}
+
+.circle {
+    position: absolute;
+    top: 40%;
+    left: 63%;
+	width: 40px;
+	height: 40px;
+	background: rgb(255, 255, 255);
+	border-radius: 50px;
+    border: solid 5px;
+}
+
+.rectangle1 {
+    position: absolute;
+    top: 83%;
+    left: 80%;
+	width: 20px;
+	height: 80px;
+	background: rgb(216, 219, 24);
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.rectangle2 {
+    position: absolute;
+    top: 83%;
+    left: 83%;
+	width: 20px;
+	height: 80px;
+	background: rgb(216, 219, 24);
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.rectangle3 {
+    position: absolute;
+    top: 83%;
+    left: 86%;
+	width: 20px;
+	height: 80px;
+	background: rgb(216, 219, 24);
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.rectangle4 {
+    position: absolute;
+    top: 84%;
+    left: 94%;
+	width: 20px;
+	height: 80px;
+	background: rgb(100, 81, 81);
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.tree1 {
+    position: absolute;
+    top: 70%;
+    left: 90.5%;
+    width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 60px solid rgb(49, 223, 107);
+}
+
+.tree2 {
+    position: absolute;
+    top: 60%;
+    left: 90.5%;
+    width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 60px solid rgb(49, 223, 107);
+}
+
+.tree3 {
+    position: absolute;
+    top: 50%;
+    left: 90.5%;
+    width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 60px solid rgb(49, 223, 107);
+}
+
+.car {
+    position: absolute;
+    top: 68%;
+    left: 20%;
+   background-image: url(./Audi-R8-MAISTO-36213-1.jpeg);
+   width: 280px; 
+   height: 210px;
+}
+
+.sun {
+    position: absolute;
+	width: 150px;
+	height: 150px;
+	background: rgb(247, 250, 76);
+	border-radius: 100px;
+}
+
